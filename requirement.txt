@@ -1,4 +1,8 @@
 tensorflow
+PyTorch
+Hugging Face Transformers
+DistilBERT
+Datasets
 keras
 numpy
 pandas
